@@ -1,0 +1,8 @@
+Metric,Score
+Accuracy,0.9999631499428824
+Precision,1.0
+Recall,0.9954337899543378
+F1-Score,0.9977116704805492
+ROC-AUC,1.0
+Mean Cross-Validation Accuracy,1.0
+CV Accuracy Std Dev,0.0
